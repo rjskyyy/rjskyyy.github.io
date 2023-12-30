@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on zx_Blog</title>
+    <link>http://riskyyy.github.io/post/</link>
+    <description>Recent content in Posts on zx_Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Aug 2022 20:56:49 +0800</lastBuildDate><atom:link href="http://riskyyy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello</title>
+      <link>http://riskyyy.github.io/post/hello/</link>
+      <pubDate>Thu, 18 Aug 2022 20:56:49 +0800</pubDate>
+      
+      <guid>http://riskyyy.github.io/post/hello/</guid>
+      <description>想搭博客的初衷是为了记录生活、学习和工作的成长，作为一种自我激励的手段。可能对与一些人来说，通过手账来记录更有意思，现在头上也只有一本笔记本</description>
+    </item>
+    
+  </channel>
+</rss>
