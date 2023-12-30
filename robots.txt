@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://riskyyy.github.io/sitemap.xml
+Sitemap: http://rjskyyy.github.io/sitemap.xml
